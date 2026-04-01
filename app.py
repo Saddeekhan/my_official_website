@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(
-    page_title="Your Name | Plant Genetics & Bioinformatics",
+    page_title="Saad Khan | Plant Genetics & Bioinformatics",
     page_icon="🧬",
     layout="wide"
 )
@@ -44,7 +44,7 @@ posts_df = load_posts()
 featured_df = posts_df[posts_df["featured"] == True]
 all_categories = ["All"] + sorted(posts_df["category"].unique().tolist())
 
-st.title("Your Name")
+st.title("Saad Khan")
 st.subheader("Plant Genetics | Bioinformatics | Research | Opportunities")
 
 col1, col2 = st.columns([1, 2])
