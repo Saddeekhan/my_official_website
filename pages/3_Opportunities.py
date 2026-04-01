@@ -15,11 +15,7 @@ st.write(
 
 st.markdown(
     """
-    ### Example post
-    **Position:** PhD in Plant Genomics  
-    **Institution:** Example University  
-    **Country:** Germany  
-    **Deadline:** 15 May 2026  
-    **Focus:** Crop genomics, transcriptomics, and breeding
+    ### Still looking for a PhD candidate
+    
     """
 )
