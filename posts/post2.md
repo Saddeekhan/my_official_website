@@ -32,7 +32,7 @@ Same cells, same assay—different biology.
 5/
  Here’s the deeper truth:
  Genomic assays feel quantitative.
- You get numbers, peaks, plots.
+ You get number, peaks, plots.
 
 But biology is not always quantitative.
 Technical artifacts and biological nuance blur the line.
@@ -68,6 +68,7 @@ Condition (with or without E2) changes everything
 
 Numbers in genomics are never absolute
 
+[1775049310898.pdf](https://github.com/user-attachments/files/26419539/1775049310898.pdf)
 
 9/
  The question isn’t “How many ER binding sites?”
