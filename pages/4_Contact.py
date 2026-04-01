@@ -4,14 +4,10 @@ st.title("Contact")
 
 st.write(
     """
-    Email: your_email@example.com
+    Email: saadkhanuom@gmail.com
 
-    LinkedIn: your LinkedIn URL
+    LinkedIn: www.linkedin.com/in/saad-khan-bioinformatician-434586157
 
-    Google Scholar: your Google Scholar URL
-
-    ORCID: your ORCID URL
-
-    ResearchGate: your ResearchGate URL
+    ResearchGate: https://www.researchgate.net/profile/Saad-Khan-111?ev=hdr_xprf
     """
 )
