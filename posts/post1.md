@@ -1,3 +1,4 @@
-# Why Plant Genetics Matters
+Tracking-seq: a universal off-target detection approach for CRISPR–Cas genome editing 
+https://lnkd.in/eV4WTV2C
 
-Plant genetics plays a central role in crop improvement, resilience, and food security. Modern genetics helps researchers understand how key traits are inherited and how they can be improved for agriculture.
+<img width="800" height="951" alt="image" src="https://github.com/user-attachments/assets/e57a98c2-50a0-49da-9fe3-caa6630aca79" />
