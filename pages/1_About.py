@@ -7,10 +7,10 @@ st.write(
     Write your professional academic biography here.
 
     You can include:
-    - your education
-    - current position
-    - research interests
-    - key skills in plant genetics and bioinformatics
-    - future goals
+    - Master of Philosophy in Genetics
+    - Working as a Data Analyst
+    - Computational Plant Biology
+    - R, Python, Machine learning, Linux
+    - A Strong Researcher
     """
 )
